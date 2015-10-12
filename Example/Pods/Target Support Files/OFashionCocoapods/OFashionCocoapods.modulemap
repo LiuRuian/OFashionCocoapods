@@ -1,0 +1,6 @@
+framework module OFashionCocoapods {
+  umbrella header "OFashionCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}
